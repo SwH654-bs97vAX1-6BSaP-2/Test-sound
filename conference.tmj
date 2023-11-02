@@ -368,7 +368,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"public\/birds2.mp3"
+                         "value":"..\/birds2.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -494,7 +494,7 @@
          "y":0
         }],
  "nextlayerid":62,
- "nextobjectid":26,
+ "nextobjectid":27,
  "orientation":"orthogonal",
  "properties":[
         {
