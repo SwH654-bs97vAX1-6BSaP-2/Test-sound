@@ -368,7 +368,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"public\/sounds\/\/birds2.mp3"
+                         "value":"\/public\/birds2.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
